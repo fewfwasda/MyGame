@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: c916640f4f06abd4884810ce916dcff8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Huge mouse pointer pack_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef400cbd629bb8041917df024a464eb6
+      internalID: 1815010617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Huge mouse pointer pack_0: -1890541929
+      Huge mouse pointer pack_1: 169521669
+      Huge mouse pointer pack_10: 1613736364
+      Huge mouse pointer pack_11: 1505526434
+      Huge mouse pointer pack_12: -443592397
+      Huge mouse pointer pack_13: -1857262412
+      Huge mouse pointer pack_14: 141500336
+      Huge mouse pointer pack_15: -184235139
+      Huge mouse pointer pack_16: -277346674
+      Huge mouse pointer pack_17: 1180568818
+      Huge mouse pointer pack_18: -1820948327
+      Huge mouse pointer pack_19: 299095238
+      Huge mouse pointer pack_2: 1200532959
+      Huge mouse pointer pack_20: -892870505
+      Huge mouse pointer pack_21: 513155410
+      Huge mouse pointer pack_22: -1515035868
+      Huge mouse pointer pack_23: -77749364
+      Huge mouse pointer pack_24: -2064520946
+      Huge mouse pointer pack_25: -1614340701
+      Huge mouse pointer pack_26: 1652963252
+      Huge mouse pointer pack_27: -2104727726
+      Huge mouse pointer pack_28: -893235809
+      Huge mouse pointer pack_29: 185997263
+      Huge mouse pointer pack_3: -606965212
+      Huge mouse pointer pack_30: -216719925
+      Huge mouse pointer pack_31: -532586533
+      Huge mouse pointer pack_32: -1893901417
+      Huge mouse pointer pack_33: -505568236
+      Huge mouse pointer pack_34: 1508178240
+      Huge mouse pointer pack_35: 253149307
+      Huge mouse pointer pack_36: -1314816857
+      Huge mouse pointer pack_37: -1215614291
+      Huge mouse pointer pack_38: -317006623
+      Huge mouse pointer pack_39: 218100471
+      Huge mouse pointer pack_4: 997600385
+      Huge mouse pointer pack_40: 95326805
+      Huge mouse pointer pack_41: 1977521193
+      Huge mouse pointer pack_42: -1819710184
+      Huge mouse pointer pack_43: -800066708
+      Huge mouse pointer pack_44: 2382156
+      Huge mouse pointer pack_45: 328738800
+      Huge mouse pointer pack_46: -404016162
+      Huge mouse pointer pack_47: -1273469448
+      Huge mouse pointer pack_48: -78188667
+      Huge mouse pointer pack_49: -1447224790
+      Huge mouse pointer pack_5: 1884421423
+      Huge mouse pointer pack_50: 925739511
+      Huge mouse pointer pack_51: -427935481
+      Huge mouse pointer pack_52: -1643407049
+      Huge mouse pointer pack_53: 543278269
+      Huge mouse pointer pack_54: 1815010617
+      Huge mouse pointer pack_55: -352047582
+      Huge mouse pointer pack_56: 415216674
+      Huge mouse pointer pack_57: -1254889404
+      Huge mouse pointer pack_58: 311045593
+      Huge mouse pointer pack_59: 724305578
+      Huge mouse pointer pack_6: 1799868316
+      Huge mouse pointer pack_60: 1446245818
+      Huge mouse pointer pack_61: 36393607
+      Huge mouse pointer pack_62: -1323593198
+      Huge mouse pointer pack_63: 1696841320
+      Huge mouse pointer pack_7: -1929325546
+      Huge mouse pointer pack_8: -774123915
+      Huge mouse pointer pack_9: 898780821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
